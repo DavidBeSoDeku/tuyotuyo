@@ -16,4 +16,4 @@ they are deleted from the grid, leaving a large hole that you have to fill in.
 
 ###### Known Bugs:
 - Cannot rotate on right hand side of screen.
-  - This was a fix from a previous version in which the block would deform and become destroyed on the right side.
+  - Either stops rotation or forcing it appears to deform the block into either the S or Square block
