@@ -1,5 +1,5 @@
 # tuyotuyo
-Fun blend of puyo puyo and tetris made in Java
+Fun blend of puyo puyo and tetris made in Java.
 ---
 #### Created by David Brooks, Rithwik Pattikonda, and Tristan Prior.
 
@@ -16,4 +16,4 @@ they are deleted from the grid, leaving a large hole that you have to fill in.
 
 ###### Known Bugs:
 - Cannot rotate on right hand side of screen.
-  - Either stops rotation or forcing it appears to deform the block into either the S or Square block
+  - Either stops rotation or forcing it appears to deform the block into either the S or Square block.
